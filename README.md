@@ -1,3 +1,7 @@
+# Next.js + Biome Demo
+
+> **Note**: As announced in [Next.js 15.5](https://nextjs.org/blog/next-15-5#next-lint-deprecation), `next lint` is being deprecated. This project demonstrates using [Biome](https://biomejs.dev/) as an alternative linter and formatter for Next.js projects.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
